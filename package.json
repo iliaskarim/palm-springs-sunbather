@@ -1,0 +1,31 @@
+{
+	"name": "palm-springs-sunbather",
+	"displayName": "Palm Springs Sunbather",
+	"description": "Blissful light theme",
+	"publisher": "iliaskarim",
+	"repository": "https://github.com/iliaskarim/palm-springs-sunbather",
+	"license": "MIT",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"syntax off",
+		"no syntax highlighting",
+		"sunbather",
+		"light"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Palm Springs Sunbather",
+				"uiTheme": "vs",
+				"path": "./themes/palm-springs-sunbather-color-theme.json"
+			}
+		]
+	}
+}
