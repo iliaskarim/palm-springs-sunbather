@@ -12,10 +12,10 @@
     "editorBracketHighlight.foreground3": "#262626",
     "editorCursor.foreground": "#ff5f87",
     "editorCursor.background": "#262626",
+    "activityBar.activeBorder": "#BBC",
     "activityBar.foreground": "#BBC",
-    "activityBar.inactiveForeground": "#BBC",
+    "activityBar.inactiveForeground": "#DDD",
     // From Light Modern
-    "activityBar.activeBorder": "#005fb8",
     "activityBar.background": "#f8f8f8",
     "activityBar.border": "#0000001a",
     "badge.background": "#005fb8",
