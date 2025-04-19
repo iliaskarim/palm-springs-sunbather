@@ -15,6 +15,7 @@
     "activityBar.activeBorder": "#BBC",
     "activityBar.foreground": "#BBC",
     "activityBar.inactiveForeground": "#DDD",
+    "editorRuler.foreground": "#EEE",
     // From Light Modern
     "activityBar.background": "#f8f8f8",
     "activityBar.border": "#0000001a",
