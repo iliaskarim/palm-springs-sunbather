@@ -16,6 +16,7 @@
     "activityBar.foreground": "#BBC",
     "activityBar.inactiveForeground": "#DDD",
     "editorRuler.foreground": "#EEE",
+    "tab.activeBorderTop": "#ff5f87",
     // From Light Modern
     "activityBar.background": "#f8f8f8",
     "activityBar.border": "#0000001a",
@@ -128,7 +129,6 @@
     "statusBarItem.remoteForeground": "#ffffff",
     "tab.activeBackground": "#ffffff",
     "tab.activeBorder": "#f8f8f8",
-    "tab.activeBorderTop": "#005fb8",
     "tab.activeForeground": "#3b3b3b",
     "tab.border": "#0000001a",
     "tab.hoverBackground": "#ffffff",
