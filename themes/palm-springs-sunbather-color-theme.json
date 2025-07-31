@@ -17,6 +17,11 @@
     "activityBar.inactiveForeground": "#DDD",
     "editorRuler.foreground": "#EEE",
     "tab.activeBorderTop": "#ff5f87",
+    "terminal.background": "#1a1a1a",
+    "terminal.foreground": "#dadada",
+    "terminal.selectionBackground": "#dadada",
+    "terminal.selectionForeground": "#1a1a1a",
+
     // From Light Modern
     "activityBar.background": "#f8f8f8",
     "activityBar.border": "#0000001a",
@@ -138,7 +143,6 @@
     "tab.unfocusedActiveBorder": "#f8f8f8",
     "tab.unfocusedActiveBorderTop": "#00000015",
     "tab.unfocusedHoverBackground": "#6e76811a",
-    "terminal.foreground": "#3b3b3b",
     "terminal.inactiveSelectionBackground": "#e5ebf1",
     "terminal.tab.activeBorder": "#005fb8",
     "terminalCursor.foreground": "#005fb8",
