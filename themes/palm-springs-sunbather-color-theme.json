@@ -23,6 +23,5 @@
     "terminal.selectionBackground": "#dadada",
     "terminal.selectionForeground": "#1a1a1a",
     "editorOverviewRuler.border": "#0000001a",
-  },
-  "editor.fontFamily": "'Fira Code', 'Courier New', monospace"
+  }
 }
