@@ -20,8 +20,9 @@
     "tab.activeBorderTop": "#ff5f87",
     "terminal.background": "#1a1a1a",
     "terminal.foreground": "#dadada",
-    "terminal.selectionBackground": "#dadada",
-    "terminal.selectionForeground": "#1a1a1a",
+    "terminal.selectionBackground": "#304e75",
+    "terminal.selectionForeground": "#ffffff",
+    "terminalCursor.foreground": "#304e75",
     "editorOverviewRuler.border": "#0000001a",
   }
 }
