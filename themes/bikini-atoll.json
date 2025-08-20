@@ -1,0 +1,27 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "include": "./dark_modern.json",
+  "colors": {
+    "editor.background": "#1a1a1a",
+    "editor.foreground": "#dadada",
+    "editorWhitespace.foreground": "#7a7a64",
+    "activityBarBadge.background": "#af3a5b",
+    "activityBarBadge.foreground": "#1a1a1a",
+    "editorCursor.foreground": "#dadada",
+    "editorCursor.background": "#1a1a1a",
+    "activityBar.activeBorder": "#7a7a64",
+    "activityBar.foreground": "#7a7a64",
+    "activityBar.inactiveForeground": "#636363",
+    "editorRuler.foreground": "#585858",
+    "tab.activeBorderTop": "#af3a5b",
+    "terminal.background": "#000000",
+    "terminal.foreground": "#dadada",
+    "terminal.selectionBackground": "#304e75",
+    "terminal.selectionForeground": "#ffffff",
+    "terminalCursor.foreground": "#304e75",
+    "editorOverviewRuler.border": "#0000001a",
+    "editorLineNumber.foreground": "#7a7a64",
+    "editorLineNumber.activeForeground": "#af3a5b"
+  }
+}
