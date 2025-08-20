@@ -22,9 +22,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Palm Springs Sunbather",
+				"label": "Bikini Atoll",
+				"uiTheme": "vs-dark",
+				"path": "./themes/bikini-atoll.json"
+			},
+			{
+				"label": "Palm Springs",
 				"uiTheme": "vs",
-				"path": "./themes/palm-springs-sunbather-color-theme.json"
+				"path": "./themes/palm-springs.json"
 			}
 		]
 	},
