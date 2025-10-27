@@ -24,5 +24,7 @@
     "terminal.selectionForeground": "#ffffff",
     "terminalCursor.foreground": "#304e75",
     "editorOverviewRuler.border": "#0000001a",
+    "editorLineNumber.foreground": "#BBC",
+    "editorLineNumber.activeForeground": "#ff5f87"
   }
 }
