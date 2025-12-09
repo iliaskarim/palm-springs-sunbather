@@ -20,9 +20,9 @@
     "tab.activeBorderTop": "#ff5f87",
     "terminal.background": "#1a1a1a",
     "terminal.foreground": "#dadada",
-    "terminal.selectionBackground": "#304e75",
+    "terminal.selectionBackground": "#464646",
     "terminal.selectionForeground": "#ffffff",
-    "terminalCursor.foreground": "#304e75",
+    "terminalCursor.foreground": "#464646",
     "editorOverviewRuler.border": "#0000001a",
     "editorLineNumber.foreground": "#BBC",
     "editorLineNumber.activeForeground": "#ff5f87"
