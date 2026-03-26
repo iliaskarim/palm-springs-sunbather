@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "type": "light",
-  "include": "./light_modern.json",
+  "include": "./2026-light.json",
   "colors": {
     "editor.background": "#ffffff",
     "editor.foreground": "#000000",
